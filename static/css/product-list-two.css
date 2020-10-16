@@ -1,0 +1,36 @@
+.subject-1 {
+    padding-top: 20px;
+}
+
+.subject-1, .subject-2 {
+    padding-bottom: 30px;
+}
+
+.supp-title {
+    border-bottom: 2px solid #F1DAA9;
+}
+
+.flex-box {
+    display: flex;
+    width: 900px;
+    align-items: center;
+}
+
+.description {
+    padding-right: 50px;
+}
+
+.flex-box img {
+    width: 400px;
+    padding: 20px;
+}
+
+
+
+.companies li {
+    list-style-type: none;
+}
+
+.companies {
+    padding: 30px;
+}

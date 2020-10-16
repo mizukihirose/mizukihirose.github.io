@@ -1,0 +1,26 @@
+.flex-box {
+    display: flex;
+    width: 900px;
+    align-items: center;
+}
+
+.description {
+    padding: 50px;
+}
+
+.description p {
+    margin-bottom: 20px;
+}
+
+.flex-box img {
+    width: 400px;
+    padding: 20px;
+}
+
+.companies li {
+    list-style-type: none;
+}
+
+.companies {
+    padding: 30px;
+}
